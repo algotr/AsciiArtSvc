@@ -25,3 +25,6 @@ getting the fonts that support right to left
 `http://localhost:5015/Hello,World`
 
 `http://localhost:5015/Hello,World?font=Sweet`
+
+### Generating barcode image
+`http://localhost:5015/barcode/Hello,World`
